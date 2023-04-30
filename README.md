@@ -23,6 +23,6 @@ git clone https://github.com/user/python-utility-tools.git
 Then navigate to the directory of the tool you want to use and run it using the appropriate command. Refer to the README in each tool's directory for more information on how to use the tool.  
 
 
-##Contributions  
+## Contributions  
 
 Contributions are always welcome! If you find a bug or would like to suggest an improvement, please submit an issue or a pull request.
