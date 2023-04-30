@@ -8,10 +8,8 @@ This repository is a collection of various Python utility tools that I have crea
 
 | Tool Name | Version | Repository |
 |-----------|---------|------------|
-| Tool 1    | 0.0.1   | [Git remote search](https://github.com/captainion2119/py-utilities/tree/main/Git-remote-search) |
-|     |   |  |
-|     |    |  |
-| ...       | ...     | ...        |
+| Git Remotes Search    | 0.0.1   | [Git remote search](https://github.com/captainion2119/py-utilities/tree/main/Git-remote-search) |
+
 
 ## Usage
 
