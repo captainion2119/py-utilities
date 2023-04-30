@@ -20,7 +20,8 @@ To use any of the tools in this repository, clone the repository using the follo
 git clone https://github.com/user/python-utility-tools.git
 ```
 
-Then navigate to the directory of the tool you want to use and run it using the appropriate command. Refer to the README in each tool's directory for more information on how to use the tool.
+Then navigate to the directory of the tool you want to use and run it using the appropriate command. Refer to the README in each tool's directory for more information on how to use the tool.  
+
 
 ##Contributions  
 
